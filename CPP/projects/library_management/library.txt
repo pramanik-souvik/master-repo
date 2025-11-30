@@ -1,0 +1,6 @@
+101 Computer Science for Beginner,Souvik Pramanik,0
+102 Hands on Python,Souvik Pramanik,0
+103 Machine Learning and It's Fundamentals,Souvik Pramanik,0
+104 Projects of Machine Learning,Souvik Pramanik,0
+105 Deep Learning and Neural Networks,Souvik Pramanik,0
+106 Evolution of Large Language Models (LLM),Souvik Pramanik,0
