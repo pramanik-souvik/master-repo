@@ -1,0 +1,8 @@
+pdf,125
+book,250
+music,500
+pc,1000
+laptop,899
+phone,1099
+ipad,999
+coffee mug,25
