@@ -1,0 +1,6 @@
+ID: 103 | Name: Abyad | Age: 24 | Course: Advance Database System
+ID: 104 | Name: Khalil | Age: 25 | Course: Linear Algebra
+ID: 107 | Name: Munna | Age: 24 | Course: Senior Design
+ID: 102 | Name: Riaz | Age: 24 | Course: Software Engineering
+ID: 101 | Name: Souvik | Age: 23 | Course: Machine Learning
+ID: 105 | Name: Tamjid | Age: 24 | Course: Electronics Circuit
