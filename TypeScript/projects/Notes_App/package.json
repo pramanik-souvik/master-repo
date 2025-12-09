@@ -1,0 +1,17 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "main": "dist/main.ts",
+  "scripts": {
+    "start": "electron .",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "electron": "^26.0.0",
+    "typescript": "^5.3.0"
+  },
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

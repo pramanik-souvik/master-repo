@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>TypeScript Notes App</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    #notesList { list-style: none; padding: 0; }
+    .note { padding: 10px; margin-bottom: 5px; border-radius: 5px; }
+    button { margin-left: 10px; }
+    #controls { margin-bottom: 10px; }
+  </style>
+</head>
+<body>
+  <h1>Notes App</h1>
+  <div id="controls">
+    <input type="text" id="noteInput" placeholder="Enter note" />
+    <input type="text" id="tagsInput" placeholder="Enter tags, comma separated" />
+    <button id="addBtn">Add Note</button>
+    <input type="text" id="search" placeholder="Search notes" />
+    <button id="exportBtn">Export Notes</button>
+  </div>
+  <ul id="notesList"></ul>
+
+  <script src="./renderer.js"></script>
+</body>
+</html>
