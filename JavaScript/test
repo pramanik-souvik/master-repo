@@ -1,0 +1,20 @@
+<h1>JavaScript Programming Showcase</h1>
+
+This folder contains <b>10 small JavaScript codes</b> and <b>3 mini projects</b>.
+
+<h2>Small Codes</h2>
+<ul><li>CLI Calculator</li>
+<li>String Utilities</li>
+<li>Array Utilities</li>
+<li>Random Number Generator</li>
+<li>Date/Time Formatter</li>
+<li>Fetch API Demo</li>
+<li>Promise/Async-Await Demo</li>
+<li>Event Emitter</li>
+<li>File Handling (Node.js fs)</li>
+<li>Caesar Cipher Encryption</li></ul>
+
+<h2>Projects</h2>
+1. <b>CLI Quiz App</b>
+2. <b>Markdown Parser</b>
+3. <b>JSON Formatter</b>
