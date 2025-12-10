@@ -1,0 +1,2 @@
+Hello from Rust!
+Appending a new line to the file!
