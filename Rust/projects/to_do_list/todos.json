@@ -1,0 +1,20 @@
+[
+  {
+    "task": "Study",
+    "done": false,
+    "priority": "High",
+    "deadline": "2025-10-06"
+  },
+  {
+    "task": "Practice Rust",
+    "done": false,
+    "priority": "High",
+    "deadline": "2025-10-01"
+  },
+  {
+    "task": "Project Showcase",
+    "done": false,
+    "priority": "High",
+    "deadline": "2025-10-09"
+  }
+]
