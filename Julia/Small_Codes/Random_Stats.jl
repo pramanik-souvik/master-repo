@@ -1,0 +1,1 @@
+using Statistics; nums=rand(1:10,5); println(mean(nums),median(nums))

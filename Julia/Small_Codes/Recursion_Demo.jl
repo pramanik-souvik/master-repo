@@ -1,0 +1,1 @@
+function fib(n); n<=2 ? 1 : fib(n-1)+fib(n-2); end; println(fib(6))

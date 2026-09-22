@@ -1,0 +1,1 @@
+arr = [i^2 for i in 1:5]; println(arr)

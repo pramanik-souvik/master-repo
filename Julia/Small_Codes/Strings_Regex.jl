@@ -1,0 +1,1 @@
+str="Hello Julia"; println(ismatch(r"Julia", str))

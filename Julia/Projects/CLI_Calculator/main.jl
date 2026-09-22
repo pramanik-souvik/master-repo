@@ -1,0 +1,5 @@
+println("Enter first number:")
+a = parse(Float64, readline())
+println("Enter second number:")
+b = parse(Float64, readline())
+println("Sum=$(a+b), Diff=$(a-b), Prod=$(a*b), Div=$(a/b)")

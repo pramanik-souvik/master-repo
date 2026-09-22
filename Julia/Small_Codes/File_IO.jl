@@ -1,0 +1,1 @@
+write("file.txt","Hello Julia"); println(read("file.txt",String))

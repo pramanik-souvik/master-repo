@@ -1,0 +1,1 @@
+f(x::Int) = x^2; f(x::Float64) = x*2.0; println(f(3), f(3.0))
